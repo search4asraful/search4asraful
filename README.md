@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Md. Asraful islam from Bangladesh<br><br>- 🔭 I’m working as Full-stack Developer<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I love to learn something new...</p>
+<p align="left">I'm Md. Asraful islam from Bangladesh<br><br>- 🔭 I’m working as Full-stack Developer<br>- 📚 I'm currently learning Vue Js<br>- ⚡ In my free time I love to learn something new...</p>
 
 ###
 
