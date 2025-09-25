@@ -1,6 +1,5 @@
 <div align="center">
-  
-  <img height="150" src="https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg" />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
   <!-- <img height="150" src="https://www.globalonlinepublishing.com/wp-content/uploads/2019/03/web-dev-Banner-008.jpg" /> -->
 </div>
 
@@ -74,7 +73,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=search4asraful&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> <br/>
+  <img src="https://streak-stats.demolab.com?user=search4asraful&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=search4asraful&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="170" alt="languages graph"  />
 </div>
 
