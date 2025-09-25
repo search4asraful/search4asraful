@@ -1,5 +1,7 @@
 <div align="center">
-  <img height="150" src="https://www.globalonlinepublishing.com/wp-content/uploads/2019/03/web-dev-Banner-008.jpg" />
+  
+  <img height="150" src="https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg" />
+  <!-- <img height="150" src="https://www.globalonlinepublishing.com/wp-content/uploads/2019/03/web-dev-Banner-008.jpg" /> -->
 </div>
 
 ###
@@ -32,7 +34,7 @@
 
 ###
 
-<p align="left">I'm Md. Asraful islam from Bangladesh<br><br>- 🔭 I’m working as Full-stack Developer<br>- 📚 I'm currently learning Vue Js<br>- ⚡ In my free time I love to learn something new...</p>
+<p align="left">I'm Md. Asraful islam from Bangladesh<br><br>- 🔭 I’m working as Full-stack Developer<br>- 📚 I'm currently learning DevOps<br>- ⚡ In my free time I love to learn something new...</p>
 
 ###
 
@@ -49,17 +51,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind css logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://laravel.com/img/logomark.min.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.cookielaw.org/logos/70564414-548a-4286-8ad7-04d95b172a08/e26443c0-68d1-47c8-b8fc-9bc765da2e95/3a159462-db70-43cf-a27d-f602a6baed44/pm-logo-horiz.png" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img src="https://cdn.cookielaw.org/logos/70564414-548a-4286-8ad7-04d95b172a08/e26443c0-68d1-47c8-b8fc-9bc765da2e95/3a159462-db70-43cf-a27d-f602a6baed44/pm-logo-horiz.png" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -69,7 +74,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=search4asraful&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  /> <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=search4asraful&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=search4asraful&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="170" alt="languages graph"  />
 </div>
 
